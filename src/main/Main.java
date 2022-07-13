@@ -20,6 +20,8 @@ public class Main {
         window.setVisible(true);
 
         gamePanel.startGameThread();
+        //Testing new Branch.
+        gamePanel.startGameThread();//delete this.
 
 
     }
